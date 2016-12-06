@@ -19,7 +19,7 @@ setup(
         'License :: OSI Approved :: BSD License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
-        'Programming Languase :: python :: 3.5'
+        'Programming Language :: Python :: 3.5'
     ],
     install_requires=('sphinx>=1.1', )
 )
