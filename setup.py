@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='stsci_sphinx_theme',
-    version='0.0.1',
+    version='0.0.1-dev',
     author='Justin Ely',
     author_email='ely@stsci.edu',
     packages=['stsci_sphinx_theme'],
