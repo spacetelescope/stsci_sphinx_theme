@@ -1,3 +1,11 @@
+# THIS THEME IS DEPRECATED
+
+Use this instead:
+
+https://github.com/spacetelescope/stsci_rtd_theme
+
+---------------------------
+
 STScI theme for Sphinx docs
 ===========================
 
